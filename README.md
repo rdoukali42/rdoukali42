@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![rdoukali's 42 stats](https://badge.mediaplus.ma/binary/rdoukali?1337Badge=off&UM6P=off)](https://github.com/rdoukali)
 🔭 I’m currently studying at 42Heilbronn(Coding School)<br>🔎 I’m looking for an Internship <br>🤝 I’m looking for remote Job<br>💻 I'm open to learn anything in Algorithmic programming field<br>🌱 I’m currently learning about Embedded Systems<br>💬 Ask me about anything in C Language<br>😜 Fun fact - I am lazy but smart
 
 
@@ -21,5 +22,7 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ReDaRFX) 
 
-  
+  ## 📱 Connect With Me!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdoukali42/)
+[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](reda.doukali.farji@gmail.com)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
