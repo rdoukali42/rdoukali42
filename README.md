@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![rdoukali's 42 stats](https://badge.mediaplus.ma/binary/rdoukali?1337Badge=off&UM6P=off)](https://github.com/rdoukali)🔭 <br>
+[![rdoukali's 42 stats](https://badge.mediaplus.ma/binary/rdoukali?1337Badge=off&UM6P=off)](https://github.com/rdoukali42)🔭 <br>
 
 🔭 I’m currently studying at 42Heilbronn(Coding School)<br>🔎 I’m looking for an Internship <br>🤝 I’m looking for remote Job<br>💻 I'm open to learn anything in Algorithmic programming field<br>🌱 I’m currently learning about Embedded Systems<br>💬 Ask me about anything in C Language<br>😜 Fun fact - I am lazy but smart
 
