@@ -1,29 +1,121 @@
-# 💫 About Me:
-[![rdoukali's 42 stats](https://badge.mediaplus.ma/binary/rdoukali?1337Badge=off&UM6P=off)](https://github.com/rdoukali42)🔭 <br>
+# 🤖 AI Engineer | Building the Future with LLMs & RAG Systems
 
-🔭 I’m currently studying at 42Heilbronn(Coding School)<br>🔎 I’m looking for an Internship <br>🤝 I’m looking for remote Job<br>💻 I'm open to learn anything in Algorithmic programming field<br>🌱 I’m currently learning about Embedded Systems<br>💬 Ask me about anything in C Language<br>😜 Fun fact - I am lazy but smart
+[![rdoukali's 42 stats](https://badge.mediaplus.ma/binary/rdoukali?1337Badge=off&UM6P=off)](https://github.com/rdoukali42)
 
+> *"From algorithms to AI agents - transforming ideas into intelligent solutions"*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rdoukali42) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rdoukali42&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rdoukali42&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdoukali42&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🧠 **AI Engineer** specializing in **LLMs, RAG Systems & Prompt Engineering**  
+🏢 Currently enhancing AI capabilities at **Arkadia Heilbronn**  
+🎓 **42 Heilbronn** graduate with expertise in **MLOps & Cloud Infrastructure**  
+🌍 Based in **Heilbronn, Baden-Württemberg, Germany**  
+🔍 **Open to AI/ML opportunities** and cutting-edge projects  
+💡 Passionate about **end-to-end AI solutions** and workflow automation  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🎯 Current Focus
+- 🤖 Building **AI Agent workflows** with **LangGraph**
+- 📊 Implementing **MLOps pipelines** with **MLflow & Dagster**
+- ☁️ Developing **cloud-native AI solutions** on **OpenStack & Kubernetes**
+- 🔧 Creating **production-ready AI systems** with monitoring & observability
+
+## 🌐 Socials & Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdoukali42)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://reda-doukali.engineer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doukalireda0@gmail.com)
+
+## 🛠️ AI & ML Tech Stack
+
+### 🤖 AI/ML Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=for-the-badge&logo=dagster&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 Development Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🏆 Recent AI Projects & Experience
+
+### 🤖 **Generative AI Engineer** @ Arkadia Heilbronn
+- Built **AI agent workflows** using **LangGraph** for collaborative problem-solving
+- Implemented **RAG systems** with vector stores for context-aware AI responses
+- Integrated multiple AI components into cohesive, production-ready systems
+
+### 🔧 **Machine Learning Engineer** @ Arkadia Heilbronn  
+- Developed **automated MLOps pipelines** with **Dagster**
+- Deployed ML models to **MLflow** for tracking and management
+- Built **production-ready systems** with automatic data processing triggers
+
+### ☁️ **Cloud Engineer** @ Arkadia Heilbronn
+- Architected **IaaS solutions** using **OpenStack** (Nova, Neutron, Glance, Keystone)
+- Deployed **Kubernetes clusters** with container orchestration
+- Implemented **Zero Trust** security and **API-First** architecture
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdoukali42&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdoukali42&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdoukali42&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+## 🎓 Certifications & Education
+
+🏫 **42 Heilbronn** - IT Specialization (2022-2024)  
+🎯 **Duke University** - Programming Fundamentals with JavaScript, HTML & CSS (Honors)  
+🔧 **42 Heilbronn** - C Programming Specialization  
+🤖 **AI-First Product Leader** Certification  
+
+## 💭 AI Philosophy
+
+<div align="center">
+
+*"The future belongs to those who can bridge the gap between human creativity and artificial intelligence"*
+
+![AI Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rdoukali42&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ReDaRFX) 
+<div align="center">
 
-  ## 📱 Connect With Me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdoukali42/)
-[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](reda.doukali.farji@gmail.com)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Let's Build the Future Together!
+
+**Open for AI/ML collaborations, consulting, and innovative projects**
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=rdoukali42&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💝 Support My AI Journey
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ReDaRFX)
+
+</div>
+
+<!-- Crafted with ❤️ for the AI community -->
