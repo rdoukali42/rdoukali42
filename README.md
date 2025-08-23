@@ -8,7 +8,7 @@
 
 🧠 **AI Engineer** specializing in **LLMs, RAG Systems & Prompt Engineering**  
 🏢 Currently enhancing AI capabilities at **Arkadia Heilbronn**  
-🎓 **42 Heilbronn** graduate with expertise in **MLOps & Cloud Infrastructure**  
+🎓 **42 Heilbronn** graduate with expertise in **Software Engineering**  
 🌍 Based in **Heilbronn, Baden-Württemberg, Germany**  
 🔍 **Open to AI/ML opportunities** and cutting-edge projects  
 💡 Passionate about **end-to-end AI solutions** and workflow automation  
